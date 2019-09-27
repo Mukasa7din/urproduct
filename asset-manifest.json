@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/urproduct/static/css/main.5136facd.chunk.css",
+    "main.js": "/urproduct/static/js/main.90ab15d8.chunk.js",
+    "main.js.map": "/urproduct/static/js/main.90ab15d8.chunk.js.map",
+    "runtime~main.js": "/urproduct/static/js/runtime~main.14956f62.js",
+    "runtime~main.js.map": "/urproduct/static/js/runtime~main.14956f62.js.map",
+    "static/js/2.75e8dc7f.chunk.js": "/urproduct/static/js/2.75e8dc7f.chunk.js",
+    "static/js/2.75e8dc7f.chunk.js.map": "/urproduct/static/js/2.75e8dc7f.chunk.js.map",
+    "index.html": "/urproduct/index.html",
+    "precache-manifest.bd9457e5856afd5d5a0ff29dbbea5160.js": "/urproduct/precache-manifest.bd9457e5856afd5d5a0ff29dbbea5160.js",
+    "service-worker.js": "/urproduct/service-worker.js",
+    "static/css/main.5136facd.chunk.css.map": "/urproduct/static/css/main.5136facd.chunk.css.map",
+    "static/media/Day breaks.jpeg": "/urproduct/static/media/Day breaks.c2383da9.jpeg",
+    "static/media/Spring shirt.jpeg": "/urproduct/static/media/Spring shirt.e51813b7.jpeg",
+    "static/media/Spring short.jpeg": "/urproduct/static/media/Spring short.3017338c.jpeg",
+    "static/media/Suite Vest.jpeg": "/urproduct/static/media/Suite Vest.3dcd7ed5.jpeg",
+    "static/media/Summer Vest.jpeg": "/urproduct/static/media/Summer Vest.ac2fce1d.jpeg",
+    "static/media/Vetom shirts.jpeg": "/urproduct/static/media/Vetom shirts.65d8d5fa.jpeg",
+    "static/media/beach ware.jpeg": "/urproduct/static/media/beach ware.db0923e9.jpeg",
+    "static/media/App.css": "/urproduct/static/media/men-wear.147b892c.jpeg",
+    "static/media/summer plots.jpeg": "/urproduct/static/media/summer plots.ce14f3b1.jpeg"
+  }
+}
