@@ -1,0 +1,68 @@
+.nav-body{
+  background-color: darkolivegreen;
+  height: 70px;
+  list-style: none;
+  opacity: 0.95;
+  max-width: 100%;
+}
+.nav-logo{
+  float: left;
+  padding:10px 10px;
+  color:white;
+  font-family: 'comic sans MS';
+  font-size: 30px;
+  color:darkturquoise;
+  opacity: 1.5;
+}
+.logo{
+  font-size:40px;
+  color:white;
+}
+.nav-lists li{
+  float:left;
+  padding:20px 50px;
+  color:white;
+  font-size:20px;
+  display: block;
+}
+.nav-lists{
+  float:right;
+  margin-right:70px;
+}
+.body-body{
+  height:auto;
+  background-color: aliceblue;
+}
+.body-logo{
+  height:150px;
+  background-image: url('./men-wear.jpeg');
+}
+p{
+  letter-spacing: 20px;
+  text-align: center;
+  color:blue;
+  font-size: 40px;
+  padding:45px;
+  font-weight: 50%;
+  font-family: 'comic sans MS';
+  background: rgba(64, 94, 26, 0.4);
+}
+.footer-body{
+  height:50px;
+  font-family: 'bookman';
+  background-color:cadetblue;
+  color:gold;
+  font-size: 20px;
+}
+.footer-lists li{
+  float:left;
+  padding:20px 20px;
+}
+.footer-lists{
+  margin-right: 50px;
+  float:right;
+}
+.cloth{
+  margin-top:13px;
+  margin-left:25%;
+}
